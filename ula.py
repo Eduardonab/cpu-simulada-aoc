@@ -1,8 +1,11 @@
 """
-ULA — Código-base para o projeto de CPU Simulada
-AOC 2026.2
-
-Os alunos devem implementar as operações marcadas como IMPLEMENTAR.
+===============================================================================
+MÓDULO DA UNIDADE LÓGICA E ARITMÉTICA (ULA)
+===============================================================================
+Disciplina: Arquitetura e Organização de Computadores (AOC)
+Descrição: Responsável por realizar operações aritméticas e lógicas básicas
+           sobre operandos de 8 bits.
+===============================================================================
 """
 
 def limitar_8bits(valor):
